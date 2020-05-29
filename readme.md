@@ -1,7 +1,7 @@
 # Employee Dashboard Web App
 ![title-pic](responsive.png)
 
-An impressive Employee Portal & Dashboard for your company employees to check login and check vital company information, status updates and interact with one another.
+An impressive Employee Portal & Dashboard for your company employees to login and check vital company information, status updates and interact with one another.
 
 ## Project Specifications
 
