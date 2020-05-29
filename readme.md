@@ -16,7 +16,7 @@ An impressive Employee Portal & Dashboard for your company employees to check lo
 ## Steps to execute this App:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site](https://anthonys1760.github.io/jQuery-Mobile-App/)
+- [View Live Site](https://anthonys1760.github.io/Admin-Dashboard/)
 
 ## Technologies used: 
 - HTML
